@@ -1,4 +1,4 @@
 echo
 !/bin/bash
 echo "ALX school"
-"ALX school"
+echo "ALX school is cool!"
